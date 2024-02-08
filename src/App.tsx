@@ -1,5 +1,4 @@
 import { useState } from "react";
-import ChromeDinoGame from "react-chrome-dino";
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 
@@ -26,7 +25,6 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
-      <ChromeDinoGame />
     </>
   );
 }
